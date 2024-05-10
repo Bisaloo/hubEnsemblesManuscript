@@ -1073,8 +1073,8 @@
       "Package": "hubData",
       "Version": "0.1.0",
       "Source": "GitHub",
-      "Remotes": "Infectious-Disease-Modeling-Hubs/hubUtils, apache/arrow/r@apache-arrow-15.0.2",
       "RemoteType": "github",
+      "Remotes": "Infectious-Disease-Modeling-Hubs/hubUtils, apache/arrow/r@apache-arrow-15.0.2",
       "RemoteHost": "api.github.com",
       "RemoteRepo": "hubData",
       "RemoteUsername": "Infectious-Disease-Modeling-Hubs",
@@ -1168,8 +1168,8 @@
       "Package": "hubVis",
       "Version": "0.0.0.9100",
       "Source": "GitHub",
-      "Remotes": "Infectious-Disease-Modeling-Hubs/hubUtils, Infectious-Disease-Modeling-Hubs/hubData, Infectious-Disease-Modeling-Hubs/hubExamples",
       "RemoteType": "github",
+      "Remotes": "Infectious-Disease-Modeling-Hubs/hubUtils, Infectious-Disease-Modeling-Hubs/hubData, Infectious-Disease-Modeling-Hubs/hubExamples",
       "RemoteHost": "api.github.com",
       "RemoteRepo": "hubVis",
       "RemoteUsername": "Infectious-Disease-Modeling-Hubs",
@@ -1717,14 +1717,14 @@
     },
     "ragg": {
       "Package": "ragg",
-      "Version": "1.3.0",
+      "Version": "1.3.1",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
         "systemfonts",
         "textshaping"
       ],
-      "Hash": "082e1a198e3329d571f4448ef0ede4bc"
+      "Hash": "539dcb63ce611fe389b4c8e2b546cf24"
     },
     "rappdirs": {
       "Package": "rappdirs",
